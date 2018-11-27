@@ -1,11 +1,11 @@
-for ( var i = 0 ; i < 100 ; i++ ) {
+for ( var compteur = 0 ; compteur <= 100 ; compteur++ ) {
     console.log("Je compte jusqu'à " + i);
 }
 
-for ( var i = 0 ; i < 100 ; i = i + 2 ) {
+for ( var compteur = 0 ; compteur <=100 ; compteur = compteur + 2 ) {
     console.log("Je compte jusqu'à " + i);
 }
 
-for ( var i = 100 ; i > 0 ; i = i - 2 ) {
+for ( var compteur= 100 ; compteur >= 0 ; compteur = compteur - 2 ) {
     console.log("Je compte jusqu'à " + i);
 }
