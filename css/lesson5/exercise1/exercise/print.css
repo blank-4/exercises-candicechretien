@@ -1,0 +1,15 @@
+@media (print-width: 200px) {
+    p{
+        color:red;
+    }
+}
+@media (print-width: 200px) and (max-width: 600px) {
+    p{
+        color:yellow;
+    }
+}
+@media(print-width: 600px){
+    p{
+        color:green;
+    }
+}
