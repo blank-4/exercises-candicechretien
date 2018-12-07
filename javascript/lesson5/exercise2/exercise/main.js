@@ -5,7 +5,8 @@ function exercise2() {
     div1.style.height = "350px";
     div1.style.width = "202px";
 
-    crt.mouse
+    div.onmouseout = function() {}
+    div.style.backgrounColor = "red";
 }
 
 exercise2();

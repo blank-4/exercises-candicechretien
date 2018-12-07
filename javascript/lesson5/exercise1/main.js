@@ -9,7 +9,10 @@ texte.style.display = "block";
 function masquer() {
     texte.style.display = "none";
 
-function couleur(){
-    var tab = ["blue","red","green"]
+function generateColor() {
+    var r = Math.floor(Math.random( ) *256);
+    var g= Math.floor(Math.random( ) *256);
+    var b = Math.floor(Math.random( ) *256);
+    
     
 }
