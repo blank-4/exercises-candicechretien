@@ -3,7 +3,7 @@ function exercise2() {
     document.body.appendChild(div1);
     div1.style.backgroundcolor = "red";
     div1.style.height = "350px";
-    div1.style.width = "200px";
+    div1.style.width = "202px";
 
     crt.mouse
 }
