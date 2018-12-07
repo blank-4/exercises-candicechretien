@@ -10,6 +10,6 @@ function masquer() {
     texte.style.display = "none";
 
 function couleur(){
-    var tab = ["blue";"red";"green"]
+    var tab = ["blue","red","green"]
     
 }
